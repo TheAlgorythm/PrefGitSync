@@ -1,0 +1,633 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"enumerate\tclass"
+			],
+			[
+				"g",
+				"getValues\tfunction"
+			],
+			[
+				"_",
+				"_e"
+			],
+			[
+				"lo",
+				"logging\tmodule"
+			],
+			[
+				"i",
+				"isDecryptValid\tfunction"
+			],
+			[
+				"key",
+				"keyVal\tstatement"
+			],
+			[
+				"k",
+				"key\tstatement"
+			],
+			[
+				"c",
+				"cypher\tstatement"
+			],
+			[
+				"K",
+				"Key\tclass"
+			],
+			[
+				"n",
+				"N\tstatement"
+			],
+			[
+				"re",
+				"return\tkeyword"
+			],
+			[
+				"cr",
+				"CryptoMath\tclass"
+			],
+			[
+				"v",
+				"val"
+			],
+			[
+				"p",
+				"print\tfunction"
+			],
+			[
+				"C",
+				"CryptoMath\tclass"
+			],
+			[
+				"t",
+				"typing"
+			],
+			[
+				"ex",
+				"extendedEuclideanAlgorythmInternal"
+			],
+			[
+				"E",
+				"Euclidean"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"num",
+				"numString"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"f",
+				"False"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"tr",
+				"True"
+			],
+			[
+				"new",
+				"newNumString"
+			],
+			[
+				"isc",
+				"isCPrimeInternal"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"A",
+				"App"
+			],
+			[
+				"FR",
+				"fromKelvin"
+			],
+			[
+				"from",
+				"fromEntity\tparam"
+			],
+			[
+				"fr",
+				"fromValue\tparam"
+			],
+			[
+				"to",
+				"toKelvin"
+			],
+			[
+				"s",
+				"summand"
+			],
+			[
+				"fa",
+				"Fahrenheit\tstatement"
+			],
+			[
+				"sum",
+				"summand\tparam"
+			],
+			[
+				"T",
+				"Temperature\tclass"
+			],
+			[
+				"str",
+				"StringToType"
+			],
+			[
+				"ty",
+				"types\tstatement"
+			],
+			[
+				"m",
+				"math\tmodule"
+			],
+			[
+				"cl",
+				"ClassName"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"w",
+				"Wehsahnns"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 89.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"setti",
+				"Preferences: Settings"
+			],
+			[
+				"ari",
+				"Arithmetic"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pr",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"goto",
+				"Anaconda: Goto Python object"
+			],
+			[
+				"li",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"al",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"all",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"su",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"d",
+				"Package Control: Disable Package"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"sub",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"e",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pc e",
+				"Package Control: Enable Package"
+			],
+			[
+				"p",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: Satisfy Dependencies",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Color Picker"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"an",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"P",
+				"Package Control: List Packages"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"gu",
+				"GutterColor: Fix Current Color Scheme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"g",
+				"GutterColor: Fix Current Color Scheme"
+			],
+			[
+				"GutterC",
+				"GutterColor: Fix Current Color Scheme"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 427.0
+	},
+	"console":
+	{
+		"height": 170.0,
+		"history":
+		[
+			"view.run_command(\"pref_git_sync\")",
+			"fuck",
+			"sudo python temparature.py",
+			"python /Users/moritzschon/Desktop/untitled.py",
+			"python untitled.py",
+			"python",
+			"which convert"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/moritzschon/Library/Application Support/Sublime Text 3/Packages/PrefGitSync"
+	],
+	"file_history":
+	[
+		"/Users/moritzschon/Library/Application Support/Sublime Text 3/Packages/Default/arithmetic.py",
+		"/Users/moritzschon/Library/Application Support/Sublime Text 3/Packages/Default/goto_line.py",
+		"/Users/moritzschon/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.py",
+		"/Users/moritzschon/Desktop/PrefGitSync.py",
+		"/Applications/PrefGitSync.py",
+		"/Users/moritzschon/Library/Application Support/Sublime Text 3/Packages/Default/delete_word.py",
+		"/Users/moritzschon/Library/Application Support/Sublime Text 3/Packages/User/Monokai.sublime-color-scheme",
+		"/Users/moritzschon/Library/Application Support/Sublime Text 3/Packages/User/Boxy Tomorrow.sublime-theme",
+		"/Users/moritzschon/Desktop/Monokai.sublime-color-scheme",
+		"/Users/moritzschon/.zshrc",
+		"/Users/moritzschon/Documents/Projects/Python/RSA/.zshrc",
+		"/Users/moritzschon/Documents/Projects/Python/RSA/Euclidean.pyc",
+		"/Users/moritzschon/Desktop/untitled.py",
+		"/Users/moritzschon/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/moritzschon/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/moritzschon/Library/Application Support/Sublime Text 3/Packages/User/JSON (Sublime).sublime-settings",
+		"/Users/moritzschon/Documents/Projects/Python/RSA/RSA.py",
+		"/Users/moritzschon/Documents/Projects/Python/RSA/RSA",
+		"/Users/moritzschon/Library/Application Support/Sublime Text 3/Packages/Boxy Theme/Boxy Tomorrow.sublime-theme",
+		"/Users/moritzschon/Documents/Projects/Python/temparature.py",
+		"/usr/local/opt/fzf/shell/key-bindings.zsh",
+		"/Users/moritzschon/.fzf.zsh",
+		"/usr/local/sbin/mtr",
+		"/Users/moritzschon/Desktop/untitled2.py",
+		"/Users/moritzschon/Downloads/Tesla Model 3 Delivery Ramp Forecast - Interactive.twbx",
+		"/Users/moritzschon/Desktop/untitled.html",
+		"/Users/moritzschon/Library/Application Support/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/Users/moritzschon/Library/Application Support/Sublime Text 3/Packages/Anaconda/README.md",
+		"/Users/moritzschon/Library/Application Support/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+		"/Users/moritzschon/Library/Application Support/Sublime Text 3/Packages/Gutter Color/GutterColor.sublime-settings",
+		"/Users/moritzschon/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/moritzschon/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/moritzschon/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/moritzschon/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/moritzschon/Documents/GitHub/Joystick/source/Joystick.ino",
+		"/Volumes/Alles/Moritz/Bartender License",
+		"/Users/moritzschon/Downloads/FRITZ.Box 7590 154.06.92_22.06.18_2210.export",
+		"/Applications/Amphetamine.app/Contents/Info.plist",
+		"/Users/moritzschon/Desktop/test.cpp",
+		"/Volumes/Alles/Moritz/bootstrap_studio.txt",
+		"/Users/moritzschon/Downloads/Tesla Model 3 vs BMW 3 Series: how pricing and options compare | Electrek.html",
+		"/Volumes/Alles/Moritz/su.json",
+		"/Volumes/music/Musik/Machine Head/desktop.ini",
+		"/Volumes/Alles/Moritz/github-recovery-codes.txt",
+		"/Volumes/Alles/Moritz/Mastodon",
+		"/Volumes/slax/slax/boot/bootinst.sh",
+		"/Volumes/slax/slax/boot/bootinst.bat",
+		"/Users/moritzschon/Desktop/test2",
+		"/Users/moritzschon/Desktop/test",
+		"/Volumes/Alles/Moritz/Projekte/Krypto - Überarbeitet/Krypto/krypto.qrc",
+		"/Volumes/Alles/Moritz/Projekte/Krypto - Überarbeitet/Krypto/Resource.rc",
+		"/Volumes/Alles/Moritz/Projekte/Krypto - Überarbeitet/Krypto/main.cpp",
+		"/Users/moritzschon/Downloads/url.html",
+		"/Users/moritzschon/foo.txt",
+		"/Users/moritzschon/Desktop/test.swift",
+		"/Users/moritzschon/Desktop/Schule/AWP - Praxis/23_LCD-Plasma.html",
+		"/Users/moritzschon/Documents/GitHub/JCSP/examples/Settings.jcsp",
+		"/Users/moritzschon/Documents/GitHub/SmartHome/Homepage/Source/stylesheet.css",
+		"/Users/moritzschon/Documents/GitHub/SmartHome/Homepage/Source/index.php",
+		"/Users/moritzschon/Documents/GitHub/SmartHome/Homepage/Source/menu.html",
+		"/Users/moritzschon/Documents/GitHub/SmartHome/Homepage/Source/menu.js",
+		"/Users/moritzschon/Documents/GitHub/JCSP/examples/Main.jcsp",
+		"/Users/moritzschon/Desktop/tesla.js",
+		"/Users/moritzschon/Desktop/tesla.json",
+		"/Users/moritzschon/Desktop/Schule/AWP - Praxis/21_per Anhalter durch die Galaxis Quellcode.html",
+		"/Users/moritzschon/Desktop/Schule/AWP - Praxis/23_LCD-Plasma",
+		"/Users/moritzschon/Desktop/Adress",
+		"/Users/moritzschon/Desktop/18_01_46_135_breitbandmessung.csv",
+		"/Volumes/ctplusrom17h/daten/17/default.htm",
+		"/Users/moritzschon/Desktop/Schule/WebUntis.html",
+		"/Users/moritzschon/Desktop/w.py",
+		"/Users/moritzschon/Desktop/w",
+		"/e",
+		"/Users/moritzschon/Desktop/App Development Curriculum DE/20_Final/RPS/RPS/Assets.xcassets/AppIcon.appiconset/Contents.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 253.0
+	},
+	"output.exec":
+	{
+		"height": 169.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.help":
+	{
+		"height": 284.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 109.0
+	},
+	"pinned_build_system": "",
+	"project": "PrefGitSync.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 357.0,
+		"last_filter": "en",
+		"selected_items":
+		[
+			[
+				"en",
+				"encrypt"
+			]
+		],
+		"width": 574.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

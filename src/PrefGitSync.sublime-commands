@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "PrefGitSync: Update",
+        "command": "pref_git_sync_update"
+    },
+    {
+        "caption": "PrefGitSync: Save",
+        "command": "pref_git_sync_save"
+    }
+]
